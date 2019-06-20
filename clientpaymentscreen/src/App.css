@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+}
+
+@media (min-width: 767px) {
+  .data{
+    padding-bottom: 36.5%
+  }
+  .pymt-margin {
+    margin-left: -7%;
+    padding-bottom: 30%
+  }
+  .pytsum{
+    padding-top: 25%
+  }
+}
+.marpad{
+  margin: 0;
+  padding:0;
+}
+.input-field.inline{
+  margin-left: 0%;
+}
+.input-field{
+  margin-top: 0%;
+  margin-bottom: 0%
+}
